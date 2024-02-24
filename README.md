@@ -4,7 +4,6 @@
 		Version: "V1.0",
 		TcpPort: 7777,
 		Host:    "0.0.0.0",
-
 		MaxPacketSize:    4096,
 		MaxConn:          12000,
 		MaxMsgChanLen:    1024,

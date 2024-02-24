@@ -1,0 +1,10 @@
+{
+  "Name": "gobonbon",
+  "Host": "127.0.0.1",
+  "TcpPort": 7777,
+  "WsPort": 9000,
+  "MaxConn": 34,
+  "MaxPacketSize": 4096,
+  "WorkerPoolSize": 5,
+  "MaxWorkerTaskLen": 10
+}
